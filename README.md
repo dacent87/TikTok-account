@@ -16,8 +16,8 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 * Xlog
 
 ### contact me
-## Contact Telegram @alethino
-https://t.me/alethino
+## Contact Telegram @dacent53
+https://t.me/dacent53
 
 ## tiktok API
 
